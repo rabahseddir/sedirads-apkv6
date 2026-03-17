@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sedir Ads</string>
+    <string name="app_start_url">https://sedirads.com/</string>
+    <string name="app_post_login_url">https://sedirads.com/index.php?page=user&amp;action=dashboard</string>
+    <string name="google_native_login_url">https://sedirads.com/index.php?gotRedirect=1&amp;native_app=1</string>
+    <string name="google_web_client_id">262552582759-db1fuh11o4gpvqjl0p053mo0tfd4bfi6.apps.googleusercontent.com</string>
+    <string name="google_sign_in_button">تسجيل الدخول بجوجل من الهاتف</string>
+    <string name="google_sign_in_started">جاري فتح اختيار حساب Google…</string>
+    <string name="google_sign_in_success">تم تسجيل الدخول بجوجل بنجاح.</string>
+    <string name="google_sign_in_failed">تعذر إكمال تسجيل الدخول بجوجل.</string>
+    <string name="google_sign_in_no_account">لا يوجد حساب Google متاح أو تم إلغاء العملية.</string>
+    <string name="download_description">Downloading file…</string>
+    <string name="download_started">Download started</string>
+    <string name="connection_error">Unable to load the page.</string>
+    <string name="no_app_found">No app found to open this link.</string>
+    <string name="no_file_picker">No file picker available on this device.</string>
+    <string name="notification_denied_message">Notifications were not allowed.</string>
+</resources>
